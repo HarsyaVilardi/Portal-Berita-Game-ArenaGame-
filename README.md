@@ -248,7 +248,7 @@ Website ini fully responsive dengan breakpoints:
 
 ## 📞 Kontak
 
-- Email: info@arenagame.com
+- Email: 
 - Website: http://localhost/ArenaGame
 - Support: support@arenagame.com
 
