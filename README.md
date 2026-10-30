@@ -265,15 +265,15 @@ Website ini fully responsive dengan breakpoints:
 
 **Harsya Vil'ardi**
 
-- NIM: 23552011037
+- NIM: -
 - Role: Lead Developer
 - Full-stack developer yang membangun platform ArenaGame dari awal hingga akhir.
 
 ## 📞 Kontak
 
-- Email: info@arenagame.com
+- Email: vilardiharsya20@gmail.com
 - Website: http://localhost/ArenaGame
-- Support: support@arenagame.com
+- Support: -
 
 ## 📄 Lisensi
 
